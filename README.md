@@ -1,5 +1,5 @@
  ## 👋 Hi, I’m Habeeb
- ex-~~mechanical engineer~~ from India.
+ ex-~~mechanical engineer~~
  
  
 - 🔬 Always been a tech geek. Started learning Coding for a career change.
