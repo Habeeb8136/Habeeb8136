@@ -6,6 +6,6 @@
 - 💻 I love writing code and learn anythings about it.
  
 - 👀 want to become a Fullstack developer.
-- 🌱 I’m currently learning intermediates of web development.
+- 🌱 I’m currently learning frontend development.
 
 
